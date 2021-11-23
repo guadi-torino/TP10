@@ -8,8 +8,14 @@ const About = () => {
     <div>
       <center>
         <h1>About</h1>
-        <p>Imagen</p>
+        
         <div className="about">
+        <img
+          className="perfil"
+          src={
+            'https://stackblitz.com/files/react-phgqov/github/guadi-torino/TP10/master/foto.png'
+          }
+        />
           <p>
             Estoy cursando el último año del nivel secundario con orientación en
             Informática en Ort. <br />

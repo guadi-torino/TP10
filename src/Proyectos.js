@@ -18,9 +18,9 @@ const Proyectos = () => {
               }
             />
             <div className="btn">
-              <Link to="/proyectos">
+              <a href={'https://react-tc9tum.stackblitz.io'}>
                 <p style={{ textDecoration: 'none' }}>Ver proyecto</p>
-              </Link>
+              </a>
             </div>
           </div>
         </div>
@@ -35,9 +35,9 @@ const Proyectos = () => {
               }
             />
             <div className="btn">
-              <Link to="/proyectos">
+              <a href={'https://react-gboejr.stackblitz.io'}>
                 <p style={{ textDecoration: 'none' }}>Ver proyecto</p>
-              </Link>
+              </a>
             </div>
           </div>
         </div>
@@ -52,9 +52,9 @@ const Proyectos = () => {
               }
             />
             <div className="btn">
-              <Link to="/proyectos">
+              <a href={'https://to-do-list-tp3.netlify.app'}>
                 <p style={{ textDecoration: 'none' }}>Ver proyecto</p>
-              </Link>
+              </a>
             </div>
           </div>
         </div>
