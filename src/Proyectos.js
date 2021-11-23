@@ -21,11 +21,27 @@ const Proyectos = () => {
         </div>
         <br />
         <div className="card2">
-          <div className="header">Administrador</div>
+          <div className="header">
+            Administrador de pacientes{' '}
+            <img
+              className="imagen"
+              src={
+                'https://stackblitz.com/files/react-phgqov/github/guadi-torino/TP10/master/administrador.PNG'
+              }
+            />
+          </div>
         </div>
         <br />
         <div className="card2">
-          <div className="header">To do list</div>
+          <div className="header">
+            To do list{' '}
+            <img
+              className="imagen"
+              src={
+                'https://stackblitz.com/files/react-phgqov/github/guadi-torino/TP10/master/todolist.PNG'
+              }
+            />
+          </div>
         </div>
       </center>
     </div>
