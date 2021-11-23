@@ -7,13 +7,15 @@ const Proyectos = () => {
   return (
     <div>
       <center>
-      <h1>Proyectos</h1>
+        <h1>Proyectos</h1>
         <div className="card2">
           <div className="header">Dummy API</div>
         </div>
+        <br />
         <div className="card2">
           <div className="header">Administrador</div>
         </div>
+        <br />
         <div className="card2">
           <div className="header">To do list</div>
         </div>
