@@ -8,16 +8,22 @@ const About = () => {
     <div>
       <center>
         <h1>About</h1>
-        <p className="">
-          Estoy cursando el último año del nivel secundario con orientación en
-          Informática en Ort. Soy emprendedora social, participo en proyectos
-          creando herramientas para la inclusión social y escolar de personas
-          con discapacidad. Soy mentora en una organización que tiene como fin
-          achicar la brecha de género en el ambiente tecnológico brindando
-          talleres y charlas a jóvenes. Considero que desarrollar aptitudes como
-          la comunicación, flexibilidad, creatividad y trabajo en equipo son
-          necesarias para las características del contexto actual.
-        </p>
+        <p>Imagen</p>
+        <div className="about">
+          <p>
+            Estoy cursando el último año del nivel secundario con orientación en
+            Informática en Ort. <br />
+            Soy emprendedora social, participo en proyectos creando herramientas
+            para la inclusión social y escolar de personas con discapacidad.{' '}
+            <br />
+            Soy mentora en una organización que tiene como fin achicar la brecha
+            de género en el ambiente tecnológico brindando talleres y charlas a
+            jóvenes.
+            <br /> Considero que desarrollar aptitudes como la comunicación,
+            flexibilidad, creatividad y trabajo en equipo son necesarias para
+            las características del contexto actual.
+          </p>
+        </div>
         <div className="btn">
           <Link to="/proyectos">
             <p style={{ textDecoration: 'none' }}>Ver proyectos</p>
