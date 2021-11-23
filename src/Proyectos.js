@@ -34,7 +34,7 @@ const Proyectos = () => {
         <br />
         <div className="card2">
           <div className="header">
-            To do list{' '}
+            <p> To do list</p>
             <img
               className="imagen"
               src={
