@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Festive&family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&display=swap');
 p {
   font-family: Lato;
 }
@@ -92,6 +93,7 @@ h1 {
 .about p {
   margin: 15px;
   padding: 5px;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .btn {
