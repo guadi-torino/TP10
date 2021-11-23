@@ -9,7 +9,15 @@ const Proyectos = () => {
       <center>
         <h1>Proyectos</h1>
         <div className="card2">
-          <div className="header">Dummy API</div>
+          <div className="header">
+            Dummy API
+            <img
+              className="imagen"
+              src={
+                'https://stackblitz.com/files/react-phgqov/github/guadi-torino/TP10/master/dummyapi.PNG'
+              }
+            />
+          </div>
         </div>
         <br />
         <div className="card2">
