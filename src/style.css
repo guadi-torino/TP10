@@ -57,7 +57,7 @@ h1 {
   display: block;
   margin-top: 16px;
   margin-left: 8px;
-font-family: 'Fjalla One', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .dueño {
@@ -117,4 +117,6 @@ font-family: 'Fjalla One', sans-serif;
   font-size: 22px;
   text-align: center;
   font-family: 'Bebas Neue', cursive;
+}
+button {
 }
